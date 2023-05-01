@@ -1,8 +1,21 @@
-- 👋 Hi, I’m @biniyamfikru
-- 👀 I’m interested in software development and artificial intelligence.
-- 🌱 I’m currently learning learning django and also i'm working as android native application developer at SiphonTech(Part-time)
-- 💞️ I’m looking to collaborate on any project that can help me develop my skill and test my skills.
-- 📫 How to reach me Email=> aregubini@gmail.com Phone => +251917648257
+# Hi there, I'm Biniyam Fikru 👋
+
+I am a software developer with 4 years of experience in full-stack web development. I specialize in building SEO-friendly web applications using React.js, Next.js, Node.js, and Express.js. I hold a bachelor's degree in Computer Science and Engineering.
+
+## 🔭 Current Work
+Currently working as a full-stack developer.
+
+## 🌱 Skills
+- Frontend: React.js, Next.js, HTML, CSS, JavaScript
+- Backend: Node.js, Express.js, MongoDB, MySQL
+- Other Tools: Git, JIRA, Figma
+
+## 📫 Get in touch
+- Email: aregubini@gmail.com
+- LinkedIn: linkedin.com/in/biniyam-fikru
+- Website: biniyamfikru.com
+
+Thank you for visiting my profile!
 
 <!---
 biniyamfikru/biniyamfikru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
