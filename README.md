@@ -12,8 +12,8 @@ Currently working as a full-stack developer.
 
 ## 📫 Get in touch
 - Email: aregubini@gmail.com
-- LinkedIn: linkedin.com/in/biniyam-fikru
-- Website: biniyamfikru.com
+- LinkedIn:
+- Website: 
 
 Thank you for visiting my profile!
 
