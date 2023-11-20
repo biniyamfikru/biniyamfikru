@@ -1,6 +1,6 @@
 # Hi there, I'm Biniyam Fikru 👋
 
-I am a software developer with 4 years of experience in full-stack web development. I specialize in building SEO-friendly web applications using React.js, Next.js, Node.js, and Express.js. I hold a bachelor's degree in Computer Science and Engineering.
+I am a software developer with 2 years of experience in front-end web development. I specialize in building SEO-friendly web applications using React.js and Next.js. I hold a bachelor's degree in Computer Science and Engineering.
 
 ## 🔭 Current Work
 Currently working as a full-stack developer.
@@ -12,8 +12,6 @@ Currently working as a full-stack developer.
 
 ## 📫 Get in touch
 - Email: aregubini@gmail.com
-- LinkedIn:
-- Website: 
 
 Thank you for visiting my profile!
 
