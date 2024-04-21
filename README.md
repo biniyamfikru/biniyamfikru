@@ -1,12 +1,12 @@
 # Hi there, I'm Biniyam Fikru 👋
 
-I am a software developer with 2 years of experience in front-end web development. I specialize in building SEO-friendly web applications using React.js and Next.js. I hold a bachelor's degree in Computer Science and Engineering.
+I am a software engineer with 3 years of experience in front-end web development. I specialize in building SEO-friendly web applications using Next.js and React.js. I hold a bachelor's degree in Computer Science and Engineering.
 
 ## 🔭 Current Work
-Currently working as a full-stack developer.
+Currently working as a software engineer.
 
 ## 🌱 Skills
-- Frontend: React.js, Next.js, HTML, CSS, JavaScript
+- Frontend: React.js, Next.js, Tailwind
 - Backend: Node.js, Express.js, MongoDB, MySQL
 - Other Tools: Git, JIRA, Figma
 
