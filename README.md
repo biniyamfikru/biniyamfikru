@@ -1,15 +1,65 @@
-# 💫 About Me:
-🔭 I’m currently working on:<br>Building scalable backend systems and exploring new technologies to improve application performance and security.<br><br>👯 I’m looking to collaborate on:<br>Open-source projects or innovative solutions that leverage modern backend development tools and practices.<br><br>🤝 I’m looking for help with:<br>Expanding my expertise in advanced system design and exploring emerging trends like AI-powered tools.<br><br>🌱 I’m currently learning:<br>Improving my skills in Kubernetes, task queuing systems, and mastering best practices for building robust APIs.<br><br>💬 Ask me about:<br>Python, Node.js, RESTful API development, or tips for creating efficient and maintainable codebases.<br><br>⚡ Fun fact:<br>I’m a problem-solver at heart and love discovering efficient ways to tackle real-world challenges—both in code and in life!
+## 💫 About Me
+
+🔭 I’m currently working on  
+Building scalable full-stack applications, combining strong frontend experiences with reliable and efficient backend systems.
+
+👯 I’m looking to collaborate on  
+Open-source projects, full-stack applications, or innovative products that solve real-world problems using modern technologies.
+
+🤝 I’m looking for help with  
+Advanced system design, distributed systems, and leveraging AI to build smarter and more efficient applications.
+
+🌱 I’m currently learning  
+- System design for large-scale applications  
+- Advanced use of AI tools in software development  
+
+💬 Ask me about  
+React, Next.js, Node.js, API design, databases, or building scalable and maintainable applications.
+
+⚡ Fun fact  
+I actively leverage AI tools like Claude to dramatically improve development speed, problem-solving, and code quality.
 
 
-# 💻 Tech Stack:
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-<!--- 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=biniyamfikru&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=biniyamfikru&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=biniyamfikru&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
--->
+## 💻 Tech Stack
+
+**Frontend:**  
+React • Next.js • TailwindCSS • React Native  
+
+**Backend:**  
+Node.js • Express • Prisma  
+
+**Databases:**  
+PostgreSQL • MySQL • MongoDB  
+
+**DevOps & Tools:**  
+Docker • Kubernetes (learning) • Git • Apache  
+
+**AI-Enhanced Development:**  
+Advanced use of AI tools (Claude, ChatGPT) for architecture design, debugging, and rapid development  
+
+
+## 🚀 Experience Snapshot
+
+- 💳 Built a payment gateway system in a banking environment  
+- 🎮 Developed a Bingo + number games platform  
+- 🤖 Working on AI-powered applications (InsightFlow)  
+- ⚙️ Experience debugging and maintaining live production systems  
+
+
+## 🎯 Current Goals
+
+- Become highly confident in microservices & distributed systems  
+- Build a production-grade full-stack system (e.g., ticketing platform)  
+- Push deeper into AI-assisted development workflows  
+- Improve communication and technical storytelling  
+
+
+## 🧠 Developer Mindset
+
+- Full-stack problem solver (not limited to one layer)  
+- Strong focus on clean, scalable, and maintainable code  
+- Fast learner who adapts quickly to new technologies  
+- Uses AI as a force multiplier, not a shortcut  
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=biniyamfikru&theme=radical&no-frame=false&no-bg=true&margin-w=4)
